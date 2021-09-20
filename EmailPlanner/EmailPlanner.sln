@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailPlanner", "EmailPlanner.csproj", "{BCA9CE27-CA98-4F1A-A3DC-0F63C76B18D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA9CE27-CA98-4F1A-A3DC-0F63C76B18D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA9CE27-CA98-4F1A-A3DC-0F63C76B18D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA9CE27-CA98-4F1A-A3DC-0F63C76B18D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA9CE27-CA98-4F1A-A3DC-0F63C76B18D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B78C98-D803-4C25-8501-650BB290E44B}
+	EndGlobalSection
+EndGlobal
